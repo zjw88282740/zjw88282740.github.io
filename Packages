@@ -30,23 +30,21 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 Name: Old Package
 
-Package: net.limneos.nfcwriterx
+Package: xyz.potatso.nfcwriterx
 Version: 3.2-16
 Architecture: iphoneos-arm
 Maintainer: Elias Limneos <limneoselias@gmail.com>
-Installed-Size: 2668
 Depends: mobilesubstrate, net.limneos.libbulletin
-Conflicts: net.limneos.nfcwriter, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: ./debs/net.limneos.nfcwriterx_3.2-16.deb
-Size: 629820
-MD5sum: 5a5f411fcb67693bb77c7679d5544616
-SHA1: 5c5474e10c78022e4b6cc6289d9cd201db8c4b39
-SHA256: 4855b7adbf6762fd3629ce4709d6493c4f11a1058211a8563686f9859b913abc
-Section: Utilities
+Conflicts: net.limneos.nfcwriter, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos, xyz.potatso.nfcwriterx
+Filename: ./debs/xyz.potatso.nfcwriterx_3.2-16.deb
+Size: 629778
+MD5sum: e2c8e2e48c5eaff9df93b83b67789b3c
+SHA1: a79b8428b32226c7f6230764b7ae4ad5c10eed8e
+SHA256: cb311d9d25165dfba8d2f5aecc00d615a0748c181abe780b6981af9aa5da6616
+Section: Tweaks
 Description: NFCWriter XS for iOS 11/12/13
 Author: Elias Limneos <limneoselias@gmail.com>
 Depiction: http://repo.potatso.xyz/depictions/?p=net.limneos.nfcwriterx
 Icon: file:///Applcations/NFCWriter.app/icon@2x.png
-Mainlibmd5: 5c9513f65efdf5339b2ba47ef648a46c
 Name: NFCWriter XS
 
