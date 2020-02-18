@@ -100,13 +100,17 @@ Enjoy!
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			<image>NFCWriterX1.png</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<image>NFCWriterX2.png</image>
+		</screenshot>
+		<screenshot>
+			<image>NFCWriterX4.png</image>
 		</screenshot>		
+		<screenshot>
+			<image>NFCWriterX6.png</image>
+		</screenshot>				
 	</screenshots>
 	<changelog>
 		<change>cracked Ver. release</change>
