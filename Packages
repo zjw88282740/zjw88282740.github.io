@@ -37,14 +37,14 @@ Maintainer: Elias Limneos <limneoselias@gmail.com>
 Depends: mobilesubstrate, net.limneos.libbulletin
 Conflicts: net.limneos.nfcwriter, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos, xyz.potatso.nfcwriterx
 Filename: ./debs/xyz.potatso.nfcwriterx_3.2-16.deb
-Size: 629778
-MD5sum: e2c8e2e48c5eaff9df93b83b67789b3c
-SHA1: a79b8428b32226c7f6230764b7ae4ad5c10eed8e
-SHA256: cb311d9d25165dfba8d2f5aecc00d615a0748c181abe780b6981af9aa5da6616
+Size: 629740
+MD5sum: d49583e7d359808f68ea0c3f201e9a28
+SHA1: b195de2da9515278091ed4e0bdfed45192b3dc84
+SHA256: 8fd5773e06c09660802ee0b1202ddd9034957fbcd3de7e551360cccd3ae38233
 Section: Tweaks
 Description: NFCWriter XS for iOS 11/12/13
 Author: Elias Limneos <limneoselias@gmail.com>
 Depiction: http://repo.potatso.xyz/depictions/?p=net.limneos.nfcwriterx
 Icon: file:///Applcations/NFCWriter.app/icon@2x.png
-Name: NFCWriter XS
+Name: NFCWriter XS Cracked
 
