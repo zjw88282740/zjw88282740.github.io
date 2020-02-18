@@ -1,6 +1,8 @@
 <changelog>
 	<changes>
-		<version>3.2-16</version>
-		<change>Cracked version release</change>
+		<version>3.2-13</version>
+		<change>- Added Mifare Ultralight (Read/Write/Read Memory/Format) support.</change>
+		<change>- Fixed an issue with some devices not emulating the correct custom UID.</change>
+		<change>- Minor iPhone 6S fixes.</change>
 	</changes>
 </changelog>

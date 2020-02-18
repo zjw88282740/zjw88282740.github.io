@@ -12,23 +12,105 @@
 	</dependencies>
 	<shortDescription>NFCWriter XS for iOS 11/12/13 cracked by PotatsoEXP</shortDescription>
 	<descriptionlist>
-		<description>Scan. Write. Copy. Format. Emulate. Serve.</description>
-		<description>Scan your NFC tags, Credit/Debit Cards, MRTD Documents (passports, ID Cards) on your iPhone!</description>
 		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
+<strong>Scan. Write. Copy. Format. Emulate. Serve.</strong><br>
+<br>
+<strong>Scan your NFC tags, Credit/Debit Cards, MRTD Documents (passports, ID Cards) on your iPhone!</strong><br>
+<br>
+- Use your iPhone's NFC Chip to its maximum!<br>
+<br>
+As pre-seen in <a target="_blank" href="https://9to5mac.com/2017/05/19/developer-hacks-nfc-iphone-6s-respond-nfc-devices/">9to5mac</a><br>
+<br>
+<strong>Features:</strong><br>
+<br>
+-<strong>Read</strong> most common tag types<br>
+<br>
+-<strong>Write</strong> tags<br>
+<br>
+-<strong>Copy</strong> tags<br>
+<br>
+-<strong>Copy to multiple</strong> tags<br>
+<br>
+-<strong>Format</strong> tags<br>
+<br>
+-<strong>Read/Write NDEF</strong> messages<br>
+<br>
+-<strong>Read/Write</strong> almost all types of tags<br>
+<br>
+-<strong>Read Full Memory</strong> of  tags<br>
+<br>
+-<strong>Emulate Tags</strong> with UID <strong>and NDEF message</strong> emulation! (ISO-DEP Protocol) <br>
+<br>
+-<strong>Manage</strong> and save your tags in one place.<br>
+<br>
+-<strong>Scan Tags in the background!</strong> (With App minimized or phone locked)<br>
+<br>
+-<strong>Perform actions</strong> based on your tag's contents.<br>
+<br>
+-<strong>Display information</strong> about your tags like Manufacturer, Tag Type, Serial Number, ATQA, SAK, Memory Size etc.<br>
+<br>
+<strong><span style="font-size:20">And for the first time ever:</span></strong><br>
+<br>
+-<strong>Read EMV Cards</strong> (Credit/Debit Cards, Visa, MasterCard, AMEX, Maestro etc)<br>
+<br>
+-<strong>Read MRTD documents</strong> (Passports, ID Cards, Driver Licenses that contain an NFC chip)<br>
+<br>
+-<strong>Serve a tag from an iPhone to a remote iPhone and emulate it remotely!</strong> (Even in background)<br>
+<br>
+-<strong>Send commands manually to  tags (Advanced Users)</strong><br>
+<br>
+-<strong>Assign Activator actions to be performed when a specific tag is detected in background</strong><br>
+<br>
+<br>
+<br>
+Some notes on the release:<br>
+<br>
+- NFCWriter (and iOS devices in general) will NOT detect low-frequency RFID tags. You can only use this application with High-Frequency NFC tags (13.56MHz). <a href="https://blog.atlasrfidstore.com/rfid-vs-nfc" target="_blank">Read here for more info</a><br>
+<br>
+- While it can read and write most NFC tags, Emulation mode with NDEF message will only work for ISO-DEP and Desfire type tags. For different type of tags, like Mifare, NTAG or other tag types, you can only emulate their UID.<br>
+<br>
+- In NDEF Emulation mode, the emulator accepts also to write NDEF messages to it. This may be useful in applications where you emulate a message, the reader reads it, updates it and reads it back to verify its contents.<br>
+<br>
+- Emulation can emulate the tag's UID and include NDEF messages. It cannot emulate the whole tag's memory or encrypted info, so if you're trying to emulate a security tag, like door-opening tags, it may or may not work depending on the tag's infrastructure and its built-in security.<br>
+<br>
+- <strong>However, serving a tag remotely (Server - Client option, ISO-DEP only)</strong> can transfer all the tag's data, including it's security contents, to the remote device. So, for example, you could leave your bus card at home (needs a second iPhone) and emulate it with your main iPhone remotely while in the bus. (May require opening ports to your router)<br>
+<br>
+<br>
+- These achievements are beyond just accessing Apple's own NFC frameworks.<br>
+There has been extensive research and this app manages directly the NFC chip on a driver level.<br>
+<br>
+<br>
+-Supported tag types are ISO 14443, Mifare, ISO 15693, ISO-DEP and more.<br>
+<br>
+-Supported protocols are ISO 14443, ISO-DEP and Mifare.<br>
+<br>
+This new achievement enables you to use the NFC chip beyond iOS's limitations.<br>
+<br>
+Research for more Tag types and protocols is constant.<br>
+<br>
+This is the first time that NFC chip on iPhone is used to this extent.<br>
+<br>
+Supported Devices: iPhone 6S and up.<br>
+iOS : 10 to 13<br>
+<br>
+Check the screenshots and...<br>
+Enjoy!
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			<image>NFCWriterX1.png</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<image>NFCWriterX2.png</image>
+		</screenshot>
+		<screenshot>
+			<image>NFCWriterX4.png</image>
 		</screenshot>		
+		<screenshot>
+			<image>NFCWriterX6.png</image>
+		</screenshot>				
 	</screenshots>
 	<changelog>
 		<change>cracked Ver. release</change>
