@@ -1,3 +1,22 @@
+Package: xyz.potatso.bioprotectxs
+Version: 4.3-101
+Architecture: iphoneos-arm
+Maintainer: PotatsoEXP
+Installed-Size: 2104
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: debs/xyz.potatso.bioprotectxs_4.3-101.deb
+Size: 549348
+MD5sum: 40c198271ad2f68e4b4f1c737646030d
+SHA1: 186301d66617539adab63b20f5ef3a4583a9c1f4
+SHA256: e95d00b9b89ca8f77e1c52442c6132d7c142543299d4dacc3d8c1d7fac61d345
+Section: Tweaks
+Description: Protect your apps with Touch/Face ID!
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://repo.potatso.xyz/depictions/?p=xyz.potatso.bioprotectxs
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtectPrefs@2x.png
+Name: BioProtect XS (iOS 12/13) Cracked
+
 Package: xyz.potatso.nfcwriterx
 Version: 3.2-16
 Architecture: iphoneos-arm

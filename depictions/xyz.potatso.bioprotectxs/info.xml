@@ -1,0 +1,43 @@
+<package>
+	<id>xyz.potatso.bioprotectxs</id>
+	<name>BioProtect XS</name>
+	<version>4.3-101</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.0</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>mobilesubstrate</dependencies>
+	<shortDescription>BioProtect XS for iOS 12/13 cracked by PotatsoEXP</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+Protect your apps with <strong>Face ID, Touch ID or passcode</strong>!<br>
+<br>
+- Add stylish protection to your applications and many other protectable items and prevent opening them unless you authenticate using your Face ID or Touch ID! (or enter a passcode, in devices that don't support Touch ID)<br>
+<br>
+- The most secure and yet fastest way to protect your applications, presented with a very cool UI.<br>
+<br>
+- Touch ID needs less than a second to verify a correctly added fingerprint!<br>
+<br>
+- Face ID needs even less!<br>
+<br>
+The tweak listens to application launch events or other protected items events and blocks them if they are listed as protected until you enter your Touch ID (or passcode)!<br>
+<br>
+You can configure it to protect access to applications, folders, settings panes, flipswitches, control center items, power down, SIM unlock and more!<br>
+<br>
+You can set a passcode as an alternative protection method (or as the only method in devices without TouchID sensor). The passcode is different than your device's passcode! (or you could use the same)<br>
+<br>
+Enjoy the fastest and yet most secure protection!<br>
+		]]>
+</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Cracked Version release</change>
+	</changelog>
+	<links></links>
+</package>
