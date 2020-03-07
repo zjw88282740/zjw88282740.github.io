@@ -1,3 +1,19 @@
+Package: com.parrotgeek.globalize
+Version: 0.2.5
+Architecture: iphoneos-arm
+Maintainer: Potatso
+Installed-Size: 504
+Depends: mobilesubstrate, firmware (>= 9)
+Filename: debs/com.parrotgeek.globalize_0.2.5.deb
+Size: 5378
+MD5sum: cf9502263c7b34ef81fbcc5e42b6447c
+SHA1: 84a168c4e221deac3f89b8233038d45bb3bb51b5
+SHA256: e8bd683516ae0898f73b6c98c36f3fe41ffc718e3b6b71eb47f3a8319ca6e461
+Section: Tweaks
+Description: Disables almost all region differences/restrictions on iOS devices. Please run ldrestart after installation.
+Author: parrotgeek1
+Name: Globalize (fixed for IOS 12/13)
+
 Package: xyz.potatso.bioprotectxs
 Version: 4.3-101
 Architecture: iphoneos-arm
@@ -5,7 +21,7 @@ Maintainer: PotatsoEXP
 Installed-Size: 2104
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
 Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: ./debs/xyz.potatso.bioprotectxs_4.3-101.deb
+Filename: debs/xyz.potatso.bioprotectxs_4.3-101.deb
 Size: 548866
 MD5sum: e770016f4bd04de5d6be73134a7d367b
 SHA1: 79aeae8f11665011e0d0b2fb3325396fcaab31f0
@@ -23,7 +39,7 @@ Architecture: iphoneos-arm
 Maintainer: Elias Limneos <limneoselias@gmail.com>
 Depends: mobilesubstrate, net.limneos.libbulletin
 Conflicts: net.limneos.nfcwriter, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos, xyz.potatso.nfcwriterx
-Filename: ./debs/xyz.potatso.nfcwriterx_3.2-16.deb
+Filename: debs/xyz.potatso.nfcwriterx_3.2-16.deb
 Size: 629740
 MD5sum: d49583e7d359808f68ea0c3f201e9a28
 SHA1: b195de2da9515278091ed4e0bdfed45192b3dc84
