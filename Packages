@@ -1,4 +1,23 @@
 Package: xyz.potatso.bioprotectxs
+Version: 4.3-101
+Architecture: iphoneos-arm
+Maintainer: PotatsoEXP
+Installed-Size: 2104
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: debs/xyz.potatso.bioprotectxs_4.3-101.deb
+Size: 548866
+MD5sum: e770016f4bd04de5d6be73134a7d367b
+SHA1: 79aeae8f11665011e0d0b2fb3325396fcaab31f0
+SHA256: 1f8a49f34d1aba9a211e612153e179ac54c9b118734df3f79cb239cb470462c7
+Section: Tweaks
+Description: Protect your apps with Touch/Face ID!
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://repo.potatso.xyz/depictions/?p=xyz.potatso.bioprotectxs
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtectPrefs@2x.png
+Name: BioProtect XS (iOS 12/13) Cracked
+
+Package: xyz.potatso.bioprotectxs
 Version: 4.4-3+debug
 Architecture: iphoneos-arm
 Maintainer: PotatsoEXP
@@ -6,10 +25,10 @@ Installed-Size: 2104
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
 Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
 Filename: debs/xyz.potatso.bioprotectxs_4.4-3+debug.deb
-Size: 655670
-MD5sum: 26b99b1b32536ac8fb551ecef962e52b
-SHA1: a6c33cfa02342584967ac6eb5d9ad8f996fd94a1
-SHA256: a790acec997c22d9bc873d3ec1c46299bcb3077c8db43def2cfb1295c2b60c2d
+Size: 655462
+MD5sum: e6727e3f934ce1a731c38c45627514f7
+SHA1: 80eb0d215e979cf29bb05fb809a018d134a95f8a
+SHA256: 7676de130a297b6feb5b3e0f3f22c953bb70bb5ac39f47b9366fc0a5c0325d48
 Section: Tweaks
 Description: Protect your apps with Touch/Face ID!
 Author: Elias Limneos <limneoselias@gmail.com>
