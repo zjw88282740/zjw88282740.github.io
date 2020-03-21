@@ -1,23 +1,4 @@
 Package: xyz.potatso.bioprotectxs
-Version: 4.3-101
-Architecture: iphoneos-arm
-Maintainer: PotatsoEXP
-Installed-Size: 2104
-Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
-Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Filename: debs/xyz.potatso.bioprotectxs_4.3-101.deb
-Size: 548866
-MD5sum: e770016f4bd04de5d6be73134a7d367b
-SHA1: 79aeae8f11665011e0d0b2fb3325396fcaab31f0
-SHA256: 1f8a49f34d1aba9a211e612153e179ac54c9b118734df3f79cb239cb470462c7
-Section: Tweaks
-Description: Protect your apps with Touch/Face ID!
-Author: Elias Limneos <limneoselias@gmail.com>
-Depiction: http://repo.potatso.xyz/depictions/?p=xyz.potatso.bioprotectxs
-Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtectPrefs@2x.png
-Name: BioProtect XS (iOS 12/13) Cracked
-
-Package: xyz.potatso.bioprotectxs
 Version: 4.4-3+debug
 Architecture: iphoneos-arm
 Maintainer: PotatsoEXP
@@ -69,4 +50,20 @@ Author: Elias Limneos <limneoselias@gmail.com>
 Depiction: http://repo.potatso.xyz/depictions/?p=net.limneos.nfcwriterx
 Icon: file:///Applcations/NFCWriter.app/icon@2x.png
 Name: NFCWriter XS Cracked
+
+Package: xyz.potatso.surgepatch
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Potatso
+Installed-Size: 400
+Depends: mobilesubstrate
+Filename: debs/xyz.potatso.surgepatch_0.0.1-2+debug_iphoneos-arm.deb
+Size: 5426
+MD5sum: a9621899104ec6175890a987f7f0c756
+SHA1: 35d5e6e5358a3f872f23b5f18d59886b6f0caf92
+SHA256: d594517ab9f882e7cc3a2588a9998081ee1d4e8781edec99254b99cd530f5866
+Section: Tweaks
+Description: Surge iOS cracked by PotatsoEXP
+Author: Potatso
+Name: Surge iOS Crack
 
