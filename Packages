@@ -1,4 +1,23 @@
 Package: xyz.potatso.bioprotectxs
+Version: 4.3-101
+Architecture: iphoneos-arm
+Maintainer: PotatsoEXP
+Installed-Size: 2104
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
+Conflicts: net.limneos.bioprotect, net.limneos.bioprotectx, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: debs/xyz.potatso.bioprotectxs_4.3-101.deb
+Size: 548866
+MD5sum: e770016f4bd04de5d6be73134a7d367b
+SHA1: 79aeae8f11665011e0d0b2fb3325396fcaab31f0
+SHA256: 1f8a49f34d1aba9a211e612153e179ac54c9b118734df3f79cb239cb470462c7
+Section: Tweaks
+Description: Protect your apps with Touch/Face ID!
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: http://repo.potatso.xyz/depictions/?p=xyz.potatso.bioprotectxs
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtectPrefs@2x.png
+Name: BioProtect XS (iOS 12/13) Cracked
+
+Package: xyz.potatso.bioprotectxs
 Version: 4.4-3+debug
 Architecture: iphoneos-arm
 Maintainer: PotatsoEXP
@@ -51,6 +70,22 @@ Depiction: http://repo.potatso.xyz/depictions/?p=net.limneos.nfcwriterx
 Icon: file:///Applcations/NFCWriter.app/icon@2x.png
 Name: NFCWriter XS Cracked
 
+Package: xyz.potatso.servercat
+Version: 0.0.1-9+debug
+Architecture: iphoneos-arm
+Maintainer: Potatso
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: debs/xyz.potatso.servercat_0.0.1-9+debug_iphoneos-arm.deb
+Size: 2014
+MD5sum: a91706b6be6bd120c3736119afdf1f03
+SHA1: b422f8fb7ab623d66705b7149f78c2e10dc800a6
+SHA256: 773311c7024bb85ff7c5dfbb8ff68777c5f9e634411b7791cd3cb9b4092fbc2e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Potatso
+Name: ServerCat-Crack
+
 Package: xyz.potatso.surgepatch
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
@@ -66,4 +101,20 @@ Section: Tweaks
 Description: Surge iOS cracked by PotatsoEXP
 Author: Potatso
 Name: Surge iOS Crack
+
+Package: xyz.potatso.surgepatch
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm
+Maintainer: Potatso
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: debs/xyz.potatso.surgepatch_0.0.1-8+debug_iphoneos-arm.deb
+Size: 5030
+MD5sum: 68bc8bdc1655bf8ebe6f64eb998f0c17
+SHA1: 17471f1cde6864f14319420e2727a0615797bbf0
+SHA256: b2d8a55683d63b3678e88b12ca94003bbbfbc92d8a0c4f93dfa57681fb4d44cc
+Section: Tweaks
+Description: Surge iOS cracked. Enjoy it~
+Author: Potatso
+Name: Surge-Patch
 
