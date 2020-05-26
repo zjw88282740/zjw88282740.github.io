@@ -1,3 +1,19 @@
+Package: com.potato.enpip
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Potatso
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/com.potato.enpip_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3678
+MD5sum: 9765273b729f0d45226586f576fc1ac0
+SHA1: 1918b8f40e28c6abfd5903b34c31e55c0c4a7d26
+SHA256: d4de9cbfcfb5adeb46dba58d220377ce258f2f9bef578113bd8891563c4ba2ab
+Section: Tweaks
+Description: Enable PiP in iPhone
+Author: Potatso
+Name: Enpip
+
 Package: xyz.potatso.bioprotectxs
 Version: 4.3-101
 Architecture: iphoneos-arm
